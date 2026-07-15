@@ -18,7 +18,7 @@ A simple physics simulator written directly in NASM x64 assembly. The simulator 
 
 * Inspecting program output and file contents via the terminal to debug behaviour
 
-Building and Running
+# Building and Running
 
 Requires NASM and a linker (this was built and tested on Windows).
 
