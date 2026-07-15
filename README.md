@@ -3,7 +3,7 @@ A simple physics simulator written directly in NASM x64 assembly. The simulator 
 # How It Works
 
 
-* Written entirely in x64 assembly (ja105.asm) using NASM syntax
+* Written entirely in x64 assembly (gravity.asm) using NASM syntax
 
 * Reads simulation data from file
 
